@@ -1,0 +1,10 @@
+# OS-specific
+.DS_Store
+
+# Vagrant stuff
+acceptance_config.yml
+boxes/*
+Vagrantfile
+.vagrant
+
+Berksfile.lock
